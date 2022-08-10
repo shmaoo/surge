@@ -8,6 +8,6 @@
 
 
 ```html
-RULESET,https://raw.githubusercontent.com/shampooer/surge/release/adv.txt,reject
+RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/adv.txt,reject
 ```
 
