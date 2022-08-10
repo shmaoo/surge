@@ -4034,7 +4034,6 @@ zeenews-fonts.s3.amazonaws.com
 .apple.be
 .apple.ch
 .apple.co
-.apple.com
 .apple.com.co
 .apple.com.do
 .apple.com.pr

@@ -5,6 +5,7 @@
 .a5.mzstatic.com
 .adcdownload.apple.com.akadns.net
 .adcdownload.apple.com
+.apple.com
 .appldnld.apple.com
 .appldnld.g.aaplimg.com
 .appleid.cdn-apple.com
