@@ -38,5 +38,7 @@ RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/speedtest.txt
 RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/telegramcidr.txt,PROXY
 RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/cncidr.txt,DIRECT
 RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/adv.txt,REJECT
+RULE-SET,LAN,DIRECT
+FINAL,PROXY,dns-failed
 ```
 
