@@ -1,7 +1,1 @@
 .mypikpak.com
-<<<<<<< HEAD
-.dl-a10b-0470.mypikpak.com
-=======
-.user.mypikpak.com
->>>>>>> 6f2b94c97349882bc527dfad4b343af302870466
-.user.mypikpak.com>>>>>>
