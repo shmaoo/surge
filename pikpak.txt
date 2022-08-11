@@ -1,1 +1,2 @@
 .mypikpak.com
+.user.mypikpak.com
