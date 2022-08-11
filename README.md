@@ -32,7 +32,7 @@ DOMAIN-SET,https://raw.githubusercontent.com/shampooer/surge/release/apple.txt,D
 DOMAIN-SET,https://raw.githubusercontent.com/shampooer/surge/release/google.txt,DIRECT
 DOMAIN-SET,https://raw.githubusercontent.com/shampooer/surge/release/pikpak.txt,PROXY
 DOMAIN-SET,https://raw.githubusercontent.com/shampooer/surge/release/proxy.txt,PROXY
-DOMAIN-SET,https://raw.githubusercontent.com/shampooer/surge/release/proxy.txt,DIRECT
+DOMAIN-SET,https://raw.githubusercontent.com/shampooer/surge/release/direct.txt,DIRECT
 
 RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/speedtest.txt,PROXY
 RULE-SET,https://raw.githubusercontent.com/shampooer/surge/release/telegramcidr.txt,PROXY
