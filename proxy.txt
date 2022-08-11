@@ -7194,7 +7194,6 @@ zeenews-fonts.s3.amazonaws.com
 .cdig.info
 .cdjp.org
 .cdkworkshop.com
-.cdn-apple.com
 .cdn-images.mailchimp.com
 .cdn-main.plus500.com
 .cdn-terapeak.com
